@@ -1,8 +1,7 @@
-<img width="1920" height="851" alt="test3" src="https://github.com/user-attachments/assets/c15d3153-6541-4ab3-b4b8-ebc4b36b2cd9" /># Detecting AI-Generated Human Faces with Deep Learning
+# Detecting AI-Generated Human Faces with Deep Learning
 
-
-This repository contains a deep learning project to classify images of human faces as either real or AI-generated. The project utilizes a pre-trained ResNet-50 model and provides a Gradio-based web interface for easy inference.
 <img width="1920" height="851" alt="test3" src="https://github.com/user-attachments/assets/413c6fe2-0966-41ff-9f7a-b705f76b73be" />
+This repository contains a deep learning project to classify images of human faces as either real or AI-generated. The project utilizes a pre-trained ResNet-50 model and provides a Gradio-based web interface for easy inference.
 
 ## Features
 *   **Deep Learning Model**: Employs transfer learning with a ResNet-50 architecture for high-accuracy classification.
@@ -88,3 +87,4 @@ The full training history can be found in `results/training_results.json`.
 │   └── real_faces/
 └── results/
     └── training_results.json # Stored metrics from the training process
+
