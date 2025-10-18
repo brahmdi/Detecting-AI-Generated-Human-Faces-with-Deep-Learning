@@ -1,0 +1,4 @@
+torch==2.3.0
+torchvision==0.18.0
+gradio==4.32.2
+pydantic<2.0

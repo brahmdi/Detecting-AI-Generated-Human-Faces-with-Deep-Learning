@@ -1,0 +1,17 @@
+# Ignore all .ipynb files outside the 'notebooks' folder
+*.ipynb
+!notebooks/
+
+# Ignore all .pth files outside the 'models' folder
+*.pth
+!models/
+
+# Environment files
+.env
+
+# Ignore specific files and folders
+run.py
+brahim_el_hamdi/
+__pycache__/
+ai_faec/
+.gradio/
